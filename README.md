@@ -6,7 +6,7 @@ with professor <a href="https://ece.ut.ac.ir/~students/m.nayeri">
 <img src="meme/g=9.8.jpg" alt="Girl in a jacket">
 
 <video width="320" height="240" controls>
-  <source src="https://github.com/M-Mashreghi/Instrumentation/blob/main/Project/Q4/bandicam%202023-07-07%2001-46-13-402.mp4" type="video/mp4">
+  <source src="Project/Q4/bandicam%202023-07-07%2001-46-13-402.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 
