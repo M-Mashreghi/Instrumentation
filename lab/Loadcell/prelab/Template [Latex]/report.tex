@@ -1,0 +1,31 @@
+
+\documentclass[14pt]{extarticle}
+
+\input{style.tex}
+
+\usepackage{xepersian}
+\settextfont{IRNazanin}
+\setdigitfont{IRNazanin}
+
+\newcommand{\myname}{نام دانشجو }
+\newcommand{\mysid}{شماره‌ی دانشجویی }
+\newcommand{\mycourse}{آمار و احتمال مهندسی}
+\newcommand{\mytitle}{گزارش پروژه‌ی نهائی}
+
+\newenvironment{bsmallmatrix}
+{\left[\begin{smallmatrix}}
+	{\end{smallmatrix}\right]}
+
+\renewcommand*{\arraystretch}{.75}
+
+\begin{document}
+	\input{title.tex}
+	\tableofcontents
+	\clearpage
+	\section{پارادوکس برتراند}\input{./Content/Q1}
+	\newpage\section{تخمین عدد اویلر}\input{./Content/Q2}
+	\newpage\section{کبریت باناخ}\input{./Content/Q3}
+	\newpage\section{محاسبه انتگرال}\input{./Content/Q4}
+	\newpage\section{کار با داده}\input{./Content/Q5}
+
+\end{document}
