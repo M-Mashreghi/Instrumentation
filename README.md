@@ -3,6 +3,13 @@ with professor <a href="https://ece.ut.ac.ir/~students/m.nayeri">
     Nayeri
 </a>
 
+<video class="svq wp-video-shortcode" id="video-374893-1_html5" width="640" height="360" preload="metadata" data-svqindex="" __idm_id__="1204225" src="https://img5.downloadha.com/hosein/files/2023/02/Shoulders-of-Giants-1080p-trailer.mp4" style="width: 600.8px; height: 337.95px;"><source type="video/mp4" src="https://img5.downloadha.com/hosein/files/2023/02/Shoulders-of-Giants-1080p-trailer.mp4" title="1080p" data-order="1080"></video>
+
+
+
+
+
+
 Project/Q4/bandicam 2023-07-07 01-46-13-402.mp4
 
 [Timer](Project/Q4/bandicam 2023-07-07 01-46-13-402.mp4)
