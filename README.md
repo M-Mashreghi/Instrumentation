@@ -12,6 +12,7 @@ Welcome to my project! Here's a video demonstration:
   Your browser does not support the video tag.
 </video>
 
+[![Video Demo](https://img.youtube.com/vi/SOZ2zJIGlII/0.jpg)](https://www.youtube.com/watch?v=SOZ2zJIGlII)
 
 
 
