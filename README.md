@@ -3,17 +3,14 @@ with professor <a href="https://ece.ut.ac.ir/~students/m.nayeri">
     Nayeri
 </a>
 
+# My Project
 
+Welcome to my project! Here's a video demonstration:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SOZ2zJIGlII?si=z7Umq86y3JDduheZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-
-
-
-
-
-
-
+<video width="640" height="360" controls>
+  <source src="(https://www.youtube.com/embed/SOZ2zJIGlII?si=z7Umq86y3JDduheZ)" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 
 
