@@ -2,6 +2,7 @@
 with professor <a href="https://ece.ut.ac.ir/~students/m.nayeri">
     Nayeri
 </a>
+<img src="Project/Q1b/2.png" width="500" height="500">
 
 ### Video Demonstration
 
